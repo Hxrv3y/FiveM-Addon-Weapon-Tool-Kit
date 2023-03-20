@@ -27,4 +27,3 @@ A tool that allows the creation of add-on weapons & add-on components with ease 
 - Singleplayer support
 - More templates from DLC weapons
 - Add-on ammo creation
-
