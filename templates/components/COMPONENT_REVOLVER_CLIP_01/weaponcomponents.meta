@@ -4,7 +4,7 @@
   <Infos>
     <Item type="CWeaponComponentClipInfo">
       <Name>COMPONENT_REVOLVER_CLIP_01</Name>
-      <Model>w_pi_revolver_Mag1</Model>
+      <Model>w_pi_revolver_mag1</Model>
       <LocName>WCT_CLIP1</LocName>
       <LocDesc>WCD_REV_CLIP1</LocDesc>
       <AttachBone>AAPClip</AttachBone>
