@@ -3,7 +3,7 @@
   <WeaponAnimationsSets>
     <Item key="Default">
       <WeaponAnimations>
-        <Item key="WEAPON_HATCHET">
+        <Item key="WEAPON_MACHETE">
           <CoverMovementClipSetHash />
           <CoverMovementExtraClipSetHash />
           <CoverAlternateMovementClipSetHash />
@@ -27,7 +27,7 @@
           <FiringVariationsCrouchingClipSetHash />
           <AimTurnStandingClipSetHash />
           <AimTurnCrouchingClipSetHash />
-          <MeleeClipSetHash>melee@hatchet@streamed_core</MeleeClipSetHash>
+          <MeleeClipSetHash>melee@machete@streamed_core</MeleeClipSetHash>
           <MeleeVariationClipSetHash />
           <MeleeTauntClipSetHash />
           <MeleeSupportTauntClipSetHash />
@@ -50,7 +50,7 @@
     <Item key="FirstPerson">
       <Fallback>Default</Fallback>
       <WeaponAnimations>
-        <Item key="WEAPON_HATCHET">
+        <Item key="WEAPON_MACHETE">
           <MovementOverrideClipSetHash>move_m@generic</MovementOverrideClipSetHash>
           <CoverMovementClipSetHash />
           <CoverMovementExtraClipSetHash />
