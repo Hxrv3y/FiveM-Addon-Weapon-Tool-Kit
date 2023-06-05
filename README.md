@@ -24,7 +24,7 @@ A tool that allows the creation of add-on weapons & add-on components with ease 
 
 
 ## Planned #TODO
-- Gusenberg Sweeper Template
+- More Templates Join My Discord To Suggest https://discord.gg/rfxUVwa8AF
 
 - Add-on ammo creation - VERRRRYYYY FAR down the line (Not any time soon)
 
