@@ -24,7 +24,7 @@ A tool that allows the creation of add-on weapons & add-on components with ease 
 
 
 ## Planned #TODO
-- Singleplayer support
-- More templates from DLC weapons
-- Add-on ammo creation
+- Gusenberg Sweeper Template
+
+- Add-on ammo creation - VERRRRYYYY FAR down the line (Not any time soon)
 
