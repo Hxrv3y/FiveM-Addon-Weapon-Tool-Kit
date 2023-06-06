@@ -4,7 +4,7 @@
     <Infos>
 		<Item type="CWeaponComponentClipInfo">
 		  <Name>COMPONENT_GUSENBERG_CLIP_02</Name>
-		  <Model>w_mg_gusenberg_mag2</Model>
+		  <Model>w_sb_gusenberg_mag2</Model>
 		  <LocName>WCT_CLIP1</LocName>
 		  <LocDesc>WCD_GUSNBRG_CLIP2</LocDesc>
 		  <AttachBone>AAPClip</AttachBone>
