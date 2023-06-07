@@ -30,7 +30,6 @@ A tool that allows the creation of add-on weapons & add-on components with ease 
 
 - New Templates:
 
-- Brass Knuckles
 - Combat Shotgun
 - Machine Pistol
 
