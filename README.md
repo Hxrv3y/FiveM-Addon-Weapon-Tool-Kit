@@ -26,7 +26,13 @@ A tool that allows the creation of add-on weapons & add-on components with ease 
 ## Planned #TODO
 - More Templates Join My Discord To Suggest https://discord.gg/rfxUVwa8AF
 
-- Fix the pool queue and machete sounding like the metal bat
+- Fix the pool queue and machete sounding like the metal bat - Not too sure on how to fix (If anyone does please make a pull request)
+
+- New Templates:
+
+- Brass Knuckles
+- Combat Shotgun
+- Machine Pistol
 
 - Add-on ammo creation - VERRRRYYYY FAR down the line (Not any time soon)
 
