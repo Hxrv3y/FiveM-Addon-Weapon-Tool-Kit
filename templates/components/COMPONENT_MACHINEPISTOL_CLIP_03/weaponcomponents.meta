@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CWeaponComponentInfoBlob>
+    <Infos>
+		<Item type="CWeaponComponentClipInfo">
+		  <Name>COMPONENT_MACHINEPISTOL_CLIP_03</Name>
+		  <Model>>w_sb_compactsmg_mag3</Model>
+		  <LocName>WCT_CLIP1</LocName>
+		  <LocDesc>WCD_MP_CLIP1</LocDesc>
+		  <AttachBone>AAPClip</AttachBone>
+		  <WeaponAttachBone>WAPClip</WeaponAttachBone>
+		  <AccuracyModifier type="NULL" />
+		  <DamageModifier type="NULL" />
+		  <bShownOnWheel value="false" />
+		  <CreateObject value="true" />
+		  <HudDamage value="0" />
+		  <HudSpeed value="0" />
+		  <HudCapacity value="0" />
+		  <HudAccuracy value="0" />
+		  <HudRange value="0" />
+		  <AmmoInfo></AmmoInfo>
+		  <ClipSize value="30" />
+		  <ReloadData ref="RELOAD_DEFAULT_WITH_EMPTIES" />
+		</Item>
+	</Infos>
+	<InfoBlobName></InfoBlobName>
+</CWeaponComponentInfoBlob>
