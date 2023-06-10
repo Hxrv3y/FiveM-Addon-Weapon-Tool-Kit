@@ -35,3 +35,5 @@ A tool that allows the creation of add-on weapons & add-on components with ease 
 
 - Add-on ammo creation - VERRRRYYYY FAR down the line (Not any time soon)
 
+- Tutorial https://www.youtube.com/watch?v=ofgjdh2AL3Y&t=360s&ab_channel=Wolfhill
+
