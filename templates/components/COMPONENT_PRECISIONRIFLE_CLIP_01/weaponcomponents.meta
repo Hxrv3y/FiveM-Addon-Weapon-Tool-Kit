@@ -4,7 +4,7 @@
     <Infos>
 		<Item type="CWeaponComponentClipInfo">
 		  <Name>COMPONENT_PRECISIONRIFLE_CLIP_01</Name>
-		  <Model>w_sr_precisionrifle_mag1</Model>
+		  <Model>w_sr_precisionrifle_reh_mag1</Model>
 		  <LocName>WCT_CLIP1</LocName>
 		  <LocDesc>WCD_PR_CLIP1</LocDesc>
 		  <AttachBone>AAPClip</AttachBone>
