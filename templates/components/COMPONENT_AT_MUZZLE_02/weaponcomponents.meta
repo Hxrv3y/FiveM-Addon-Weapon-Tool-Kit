@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CWeaponComponentInfoBlob>
+    <Infos>
+		<Item type="CWeaponComponentSuppressorInfo">
+		  <Name>COMPONENT_AT_MUZZLE_02</Name>
+	  <Model>w_at_muzzle_2</Model>
+      <LocName>WCT_MUZZ</LocName>
+      <LocDesc>WCD_MUZZ</LocDesc>
+      <AttachBone>AAPSupp</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="5" />
+      <HudRange value="0" />
+      <MuzzleBone>Gun_SuMuzzle</MuzzleBone>
+	  <FlashFX />
+	  <ShouldSilence value="false" />
+      <RecoilShakeAmplitudeModifier value="0.650000" />
+		</Item>
+	</Infos>
+	<InfoBlobName></InfoBlobName>
+</CWeaponComponentInfoBlob>
