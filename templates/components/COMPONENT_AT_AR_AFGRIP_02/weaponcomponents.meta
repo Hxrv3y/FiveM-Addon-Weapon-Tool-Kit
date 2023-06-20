@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CWeaponComponentInfoBlob>
+    <Infos>
+		<Name>COMPONENT_AT_AR_AFGRIP_02</Name>
+      <Model>w_at_afgrip_2</Model>
+      <LocName>WCT_GRIP</LocName>
+      <LocDesc>WCD_GRIP</LocDesc>
+      <AttachBone>AAPGrip</AttachBone>
+      <AccuracyModifier type="CWeaponAccuracyModifier">
+        <AccuracyModifier value="1.100000" />
+      </AccuracyModifier>
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="5" />
+      <HudRange value="0" />
+		</Item>
+	</Infos>
+	<InfoBlobName></InfoBlobName>
+</CWeaponComponentInfoBlob>
