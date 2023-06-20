@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CWeaponComponentInfoBlob>
+    <Infos>
+		<Item type="CWeaponComponentFlashLightInfo">
+		 <Name>COMPONENT_AT_AR_BARREL_02</Name>
+	  <Model>w_at_ar_barrel_2</Model>
+      <LocName>WCT_BARR2</LocName>
+      <LocDesc>WCD_BARR2</LocDesc>
+      <AttachBone>AAPBarrel</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <FallOffModifier type="CWeaponFallOffModifier">
+        <RangeModifier value="1.250000" />
+		<DamageModifier value="1.333333" />
+      </FallOffModifier>
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+	  <ApplyWeaponTint value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="5" />
+		</Item>
+	</Infos>
+	<InfoBlobName></InfoBlobName>
+</CWeaponComponentInfoBlob>
