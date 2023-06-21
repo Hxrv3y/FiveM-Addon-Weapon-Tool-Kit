@@ -3,10 +3,10 @@
 <CWeaponComponentInfoBlob>
     <Infos>
 		<Item type="CWeaponComponentClipInfo">
-		  <Name>COMPONENT_HEAVYSNIPER_CLIP_01</Name>
-		  <Model>w_sr_heavysniper_mag1</Model>
+		  <Name>COMPONENT_HEAVYSHOTGUN_CLIP_01</Name>
+		  <Model>w_sg_heavyshotgun_mag1</Model>
 		  <LocName>WCT_CLIP1</LocName>
-		  <LocDesc>WCD_HS_CLIP1</LocDesc>
+		  <LocDesc>WCD_HSh_CLIP1</LocDesc>
 		  <AttachBone>AAPClip</AttachBone>
 		  <WeaponAttachBone>WAPClip</WeaponAttachBone>
 		  <AccuracyModifier type="NULL" />
@@ -18,7 +18,7 @@
 		  <HudCapacity value="0" />
 		  <HudAccuracy value="0" />
 		  <HudRange value="0" />
-		  <ClipSize value="6" />
+		  <ClipSize value="12" />
 		  <AmmoInfo></AmmoInfo>
 		  <ReloadData ref="RELOAD_DEFAULT" />
 		</Item>
