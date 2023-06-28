@@ -48,7 +48,7 @@ int cWeaponsToolkit::getNextAvailableSlotId()
 
 	if (slotFILE.fail())
 	{
-		//wxMessageBox("Failed to find SLOT file, re-creating.", "vWeaponsToolkit", wxICON_ERROR);
+		//wxMessageBox("Failed to find SLOT file, re-creating.", "FiveM Addon Weapon Tool Kit", wxICON_ERROR);
 		std::ofstream outfile;
 		outfile.open("SLOT", std::ios::out);
 		outfile << 400;
@@ -689,7 +689,7 @@ void cWeaponsToolkit::onExportButtonPressed(wxCommandEvent& evt)
 	{
 		manifest << "fx_version 'cerulean'\n";
 		manifest << "games {'gta5'}\n";
-		manifest << "description 'Add-on weapon generated using vWeaponsToolkit'\n\n";
+		manifest << "description 'Add-on weapon generated using FiveM Addon Weapon Tool Kit'\n\n";
 
 		manifest << "files{\n";
 		manifest << "	'**/weaponcomponents.meta',\n";
@@ -1165,7 +1165,7 @@ void cWeaponsToolkit::searchForWeaponAssets(const std::wstring& directory)
 	}
 }
 
-cWeaponsToolkit::cWeaponsToolkit() : wxFrame(nullptr, wxID_ANY, "vWeaponsToolkit", wxPoint((wxSystemSettings::GetMetric(wxSYS_SCREEN_X) / 2) - (800/2), (wxSystemSettings::GetMetric(wxSYS_SCREEN_Y) / 2) - (500 /2)), wxSize(windowWidth, windowHeight))
+cWeaponsToolkit::cWeaponsToolkit() : wxFrame(nullptr, wxID_ANY, "FiveM Addon Weapon Tool Kit", wxPoint((wxSystemSettings::GetMetric(wxSYS_SCREEN_X) / 2) - (800/2), (wxSystemSettings::GetMetric(wxSYS_SCREEN_Y) / 2) - (500 /2)), wxSize(windowWidth, windowHeight))
 {
 	// Initialize wxWidgets Menu.
 	SetIcon(wxIcon(wxT("icon.ico"), wxBITMAP_TYPE_ICO, 32, 32));
