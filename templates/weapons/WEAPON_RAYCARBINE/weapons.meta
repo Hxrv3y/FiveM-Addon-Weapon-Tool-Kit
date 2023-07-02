@@ -16,7 +16,7 @@
         <Item>
             <Infos>
                 <Item type="CWeaponInfo">
-          <Name>WEAPON_RAYCARBINE</Name>
+                    <Name>WEAPON_RAYCARBINE</Name>
           <Model>w_ar_srifle</Model>
           <Audio>AUDIO_ITEM_RAYCARBINE</Audio>
           <Slot>SLOT_RAYCARBINE</Slot>
