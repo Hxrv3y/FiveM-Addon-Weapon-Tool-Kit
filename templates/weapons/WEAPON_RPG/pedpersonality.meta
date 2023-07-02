@@ -95,7 +95,7 @@
 			<UnholsterClips>
 				<Item>
 					<Weapons>
-                        <Item>WEAPON_RPGR</Item>
+                        <Item>WEAPON_RPG</Item>
 					</Weapons>
 					<Clip>2h_holster_2h</Clip>
 				</Item>

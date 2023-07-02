@@ -163,6 +163,7 @@
     <Item key="FirstPersonAiming">
       <Fallback>Default</Fallback>
       <WeaponAnimations>
+     <Item key="WEAPON_RPG">
 <CoverMovementClipSetHash>cover@first_person@move@base@rpg</CoverMovementClipSetHash>
           <CoverMovementExtraClipSetHash>cover@first_person@move@extra@rpg</CoverMovementExtraClipSetHash>
           <CoverAlternateMovementClipSetHash />
@@ -224,6 +225,7 @@
 	<Item key="FirstPersonRNG">
       <Fallback>Default</Fallback>
       <WeaponAnimations>
+      <Item key="WEAPON_RPG">
         <CoverMovementClipSetHash>cover@first_person@move@base@rpg</CoverMovementClipSetHash>
           <CoverMovementExtraClipSetHash>cover@first_person@move@extra@rpg</CoverMovementExtraClipSetHash>
           <CoverAlternateMovementClipSetHash />
@@ -285,6 +287,7 @@
 	<Item key="FirstPersonScope">
       <Fallback>Default</Fallback>
       <WeaponAnimations>
+      <Item key="WEAPON_RPG">
         <CoverMovementClipSetHash>cover@first_person@move@base@rpg</CoverMovementClipSetHash>
           <CoverMovementExtraClipSetHash>cover@first_person@move@extra@rpg</CoverMovementExtraClipSetHash>
           <CoverAlternateMovementClipSetHash />
