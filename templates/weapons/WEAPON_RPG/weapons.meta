@@ -214,7 +214,6 @@
           <KillshotImpulseScale value="1.000000" />
           <NmShotTuningSet>Normal</NmShotTuningSet>
           <AttachPoints>
-
 		</AttachPoints>
 			<GunFeedBone />
           <TargetSequenceGroup />
