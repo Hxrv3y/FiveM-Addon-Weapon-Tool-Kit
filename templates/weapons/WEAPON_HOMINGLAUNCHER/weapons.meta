@@ -236,15 +236,6 @@
           <KillshotImpulseScale value="1.000000" />
           <NmShotTuningSet>normal</NmShotTuningSet>
           <AttachPoints>
-            <Item>
-              <AttachBone>WAPClip</AttachBone>
-              <Components>
-                <Item>
-                  <Name>COMPONENT_HOMINGLAUNCHER_CLIP_01</Name>
-                  <Default value="true" />
-                </Item>
-              </Components>
-            </Item>
           </AttachPoints>
           <GunFeedBone />
           <TargetSequenceGroup />
