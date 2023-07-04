@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CWeaponComponentInfoBlob>
+    <Infos>
+	<Name>COMPONENT_DBSHOTGUN_CLIP_01</Name>
+      <Model>w_sg_doublebarrel_mag1</Model>
+      <LocName>WCT_INVALID</LocName>
+      <LocDesc>WCD_INVALID</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="false" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="2" />
+      <ReloadData ref="RELOAD_DEFAULT" />
+		</Item>
+	</Infos>
+	<InfoBlobName></InfoBlobName>
+</CWeaponComponentInfoBlob>
