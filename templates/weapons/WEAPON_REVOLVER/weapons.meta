@@ -16,7 +16,7 @@
     <Item>
       <Infos>
         <Item type="CWeaponInfo">
-          <Name>WEAPON_DOUBLEACTION</Name>
+          <Name>WEAPON_REVOLVER</Name>
           <Model>w_pi_revolver</Model>
           <Audio>AUDIO_ITEM_REVOLVER</Audio>
           <Slot>SLOT_REVOLVER</Slot>
@@ -260,7 +260,7 @@
           <ReticuleScale value="0.300000" />
           <ReticuleStyleHash>WEAPON_PISTOL</ReticuleStyleHash>
           <FirstPersonReticuleStyleHash />
-          <PickupHash>PICKUP_WEAPON_DOUBLEACTION</PickupHash>
+          <PickupHash>PICKUP_WEAPON_REVOLVER</PickupHash>
           <MPPickupHash>PICKUP_AMMO_BULLET_MP</MPPickupHash>
           <HumanNameHash>WT_REVOLVER</HumanNameHash>
           <MovementModeConditionalIdle />
