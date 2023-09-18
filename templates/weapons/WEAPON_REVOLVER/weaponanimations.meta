@@ -3,7 +3,7 @@
   <WeaponAnimationsSets>
     <Item key="Default">
       <WeaponAnimations>
-        <Item key="WEAPON_REVOLVER">
+        <Item key="WEAPON_DOUBLEACTION">
           <CoverMovementClipSetHash />
           <CoverMovementExtraClipSetHash />
           <CoverAlternateMovementClipSetHash>cover@move@ai@base@1h</CoverAlternateMovementClipSetHash>
@@ -52,7 +52,7 @@
     <Item key="Gang">
       <Fallback>Default</Fallback>
       <WeaponAnimations>
-	    <Item key="WEAPON_REVOLVER">
+	    <Item key="WEAPON_DOUBLEACTION">
           <CoverMovementClipSetHash />
           <CoverMovementExtraClipSetHash />
           <CoverAlternateMovementClipSetHash />
@@ -101,7 +101,7 @@
     <Item key="FirstPerson">
       <Fallback>Default</Fallback>
       <WeaponAnimations>
-        <Item key="WEAPON_REVOLVER">
+        <Item key="WEAPON_DOUBLEACTION">
 		  <MovementOverrideClipSetHash>move_m@generic</MovementOverrideClipSetHash>
           <CoverMovementClipSetHash />
           <CoverMovementExtraClipSetHash />
@@ -164,7 +164,7 @@
     <Item key="FirstPersonAiming">
       <Fallback>Default</Fallback>
       <WeaponAnimations>
-        <Item key="WEAPON_REVOLVER">
+        <Item key="WEAPON_DOUBLEACTION">
           <CoverMovementClipSetHash />
           <CoverMovementExtraClipSetHash />
           <CoverAlternateMovementClipSetHash>cover@move@ai@base@1h</CoverAlternateMovementClipSetHash>
@@ -226,7 +226,7 @@
     <Item key="FirstPersonRNG">
       <Fallback>Default</Fallback>
       <WeaponAnimations>
-        <Item key="WEAPON_REVOLVER">
+        <Item key="WEAPON_DOUBLEACTION">
           <CoverMovementClipSetHash />
           <CoverMovementExtraClipSetHash />
           <CoverAlternateMovementClipSetHash>cover@move@ai@base@1h</CoverAlternateMovementClipSetHash>
@@ -286,7 +286,7 @@
     <Item key="FirstPersonScope">
       <Fallback>Default</Fallback>
       <WeaponAnimations>
-        <Item key="WEAPON_REVOLVER">
+        <Item key="WEAPON_DOUBLEACTION">
           <CoverMovementClipSetHash />
           <CoverMovementExtraClipSetHash />
           <CoverAlternateMovementClipSetHash>cover@move@ai@base@1h</CoverAlternateMovementClipSetHash>
