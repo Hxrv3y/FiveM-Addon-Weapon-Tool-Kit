@@ -100,6 +100,7 @@ public:
 		"WEAPON_SNSPISTOL",
 		"WEAPON_SWITCHBLADE",
 		"WEAPON_TECPISTOL",
+		"WEAPON_VINTAGEPISTOL",
 	};
 
 	const char* audioItems[100] = {
