@@ -6,7 +6,7 @@
         <WeaponSlots>
             <Item>
                 <OrderNumber value="300" />
-                <Entry>SLOT_HEAVYSNIPER</Entry>
+                <Entry>SLOT_TECPISTOL</Entry>
             </Item>
         </WeaponSlots>
     </Item>
