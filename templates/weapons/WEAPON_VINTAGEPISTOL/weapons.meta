@@ -16,7 +16,7 @@
         <Item>
             <Infos>
 		<Item type="CWeaponInfo">
-<Name>WEAPON_VINTAGEPISTOL</Name>
+          <Name>WEAPON_VINTAGEPISTOL</Name>
           <Model>w_pi_vintage_pistol</Model>
           <Audio>AUDIO_ITEM_VINTAGE_PISTOL</Audio>
           <Slot>SLOT_VINTAGEPISTOL</Slot>
@@ -134,7 +134,7 @@
             <MuzzleSmokeFxIncPerShot value="0.000000" />
             <MuzzleSmokeFxDecPerSec value="0.000000" />
             <ShellFx>eject_pistol</ShellFx>
-			<ShellFxFP>eject_pistol_fp</ShellFxFP>
+			      <ShellFxFP>eject_pistol_fp</ShellFxFP>
             <TracerFx>bullet_tracer</TracerFx>
             <PedDamageHash>BulletSmall</PedDamageHash>
             <TracerFxChanceSP value="0.200000" />
