@@ -112,7 +112,7 @@
     <Item key="FirstPersonRNG">
       <Fallback>Default</Fallback>
       <WeaponAnimations>
-<Item key="WEAPON_VINTAGEPISTOL">
+          <Item key="WEAPON_VINTAGEPISTOL">
           <CoverMovementClipSetHash />
           <CoverMovementExtraClipSetHash />
           <CoverAlternateMovementClipSetHash>cover@move@ai@base@1h</CoverAlternateMovementClipSetHash>
@@ -173,7 +173,7 @@
     <Item key="FirstPersonScope">
       <Fallback>Default</Fallback>
       <WeaponAnimations>
-<Item key="WEAPON_VINTAGEPISTOL">
+          <Item key="WEAPON_VINTAGEPISTOL">
           <CoverMovementClipSetHash />
           <CoverMovementExtraClipSetHash />
           <CoverAlternateMovementClipSetHash>cover@move@ai@base@1h</CoverAlternateMovementClipSetHash>
