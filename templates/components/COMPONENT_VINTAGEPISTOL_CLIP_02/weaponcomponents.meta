@@ -20,7 +20,7 @@
       <HudCapacity value="0" />
       <HudAccuracy value="0" />
       <HudRange value="0" />
-      <ClipSize value="6" />
+      <ClipSize value="12" />
       <ReloadData ref="RELOAD_DEFAULT" />
     </Item>
   </Infos>
