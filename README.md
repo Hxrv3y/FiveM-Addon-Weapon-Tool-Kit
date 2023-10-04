@@ -26,8 +26,6 @@ A tool that allows the creation of add-on weapons & add-on components with ease 
 ## Planned #TODO
 - More Templates Join My Discord To Suggest https://discord.gg/rfxUVwa8AF
 
-- Add Compact SMG (Will be done today)
-
 - Add your own custom audio sound to the weapon 
 
 - New Templates:
