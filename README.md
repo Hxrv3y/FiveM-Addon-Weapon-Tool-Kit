@@ -26,7 +26,9 @@ A tool that allows the creation of add-on weapons & add-on components with ease 
 ## Planned #TODO
 - More Templates Join My Discord To Suggest https://discord.gg/rfxUVwa8AF
 
-- Add your own custom audio sound to the weapon 
+- Add your own custom audio sound to the weapon
+
+- Fix MK2 Weapons and Components
 
 - New Templates:
 
