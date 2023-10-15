@@ -1228,17 +1228,17 @@ cWeaponsToolkit::cWeaponsToolkit() : wxFrame(nullptr, wxID_ANY, "FiveM Addon Wea
 	wxButton* nextButton = new wxButton(createWeaponPanel, wxID_ANY, "Next", wxPoint(675, 370));
 
 	wxStaticText* weaponTemplateStaticText = new wxStaticText(createWeaponPanel, wxID_ANY, "Select Weapon Template", wxPoint(250, 40));
-	wxComboBox* weaponTemplate = new wxComboBox(createWeaponPanel, wxID_ANY, "WEAPON_ASSAULTRIFLE", wxPoint(250, 60), wxSize(175, 25));
+	wxComboBox* weaponTemplate = new wxComboBox(createWeaponPanel, wxID_ANY, "WEAPON_PISTOL", wxPoint(250, 60), wxSize(175, 25));
 	weaponTemplate->Append(wxArrayString(cWeaponsToolkit::getWeaponCount(), generatedWeapon->nativeWeapons));
 
 	wxStaticText* weaponNameStaticText = new wxStaticText(createWeaponPanel, wxID_ANY, "Weapon Name:", wxPoint(250, 100));
-	weaponNameTextCtrl = new wxTextCtrl(createWeaponPanel, wxID_ANY, "AK-47", wxPoint(250,120), wxSize(175, 25));
+	weaponNameTextCtrl = new wxTextCtrl(createWeaponPanel, wxID_ANY, "Pistol", wxPoint(250,120), wxSize(175, 25));
 
 	wxStaticText* weaponIdStaticText = new wxStaticText(createWeaponPanel, wxID_ANY, "Weapon ID:", wxPoint(250, 160));
-	weaponIdTextCtrl = new wxTextCtrl(createWeaponPanel, wxID_ANY, "WEAPON_AK47", wxPoint(250,180), wxSize(175, 25));
+	weaponIdTextCtrl = new wxTextCtrl(createWeaponPanel, wxID_ANY, "WEAPON_PISTOL", wxPoint(250,180), wxSize(175, 25));
 
 	wxStaticText* weaponModelStaticText = new wxStaticText(createWeaponPanel, wxID_ANY, "Weapon Model:", wxPoint(250, 220));
-	weaponModelTextCtrl = new wxTextCtrl(createWeaponPanel, wxID_ANY, "w_ar_assaultrifle", wxPoint(250,240), wxSize(175, 25));
+	weaponModelTextCtrl = new wxTextCtrl(createWeaponPanel, wxID_ANY, "w_ar_pistol", wxPoint(250,240), wxSize(175, 25));
 
 	//Event Handlers
 	importerDirectoryPicker->Bind(wxEVT_COMMAND_DIRPICKER_CHANGED, &cWeaponsToolkit::onImportDirectoryChanged, this);
@@ -1267,7 +1267,7 @@ cWeaponsToolkit::cWeaponsToolkit() : wxFrame(nullptr, wxID_ANY, "FiveM Addon Wea
 	weaponLODTextCtrl = new wxTextCtrl(configTab, wxID_ANY, "500.0", wxPoint(20, 290), wxSize(175, 25));
 
 	wxStaticText* weaponReloadModifierStaticText = new wxStaticText(configTab, wxID_ANY, "Reload Speed Modifier:", wxPoint(20, 330));
-	weaponReloadModifierTextCtrl = new wxTextCtrl(configTab, wxID_ANY, "1.0", wxPoint(20, 350), wxSize(175, 25));
+	weaponReloadModifierTextCtrl = new wxTextCtrl(configTab, wxID_ANY, "0.5", wxPoint(20, 350), wxSize(175, 25));
 
 	wxStaticText* weaponFireRateModifierStaticText = new wxStaticText(configTab, wxID_ANY, "Fire Rate Modifier:", wxPoint(220, 30));
 	weaponFireRateModifierTextCtrl = new wxTextCtrl(configTab, wxID_ANY, "1.0", wxPoint(220, 50), wxSize(175, 25));
