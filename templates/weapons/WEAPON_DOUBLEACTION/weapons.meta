@@ -273,15 +273,6 @@
           <KillshotImpulseScale value="1.000000" />
           <NmShotTuningSet>normal</NmShotTuningSet>
           <AttachPoints>
-            <Item>
-              <AttachBone>WAPClip</AttachBone>
-              <Components>
-                <Item>
-                  <Name>COMPONENT_DOUBLEACTION_CLIP_01</Name>
-                  <Default value="true" />
-                </Item>
-              </Components>
-            </Item>
           </AttachPoints>
           <GunFeedBone />
           <TargetSequenceGroup />
@@ -313,14 +304,6 @@
           <CamoDiffuseTexIdxs />
           <RotateBarrelBone />
           <RotateBarrelBone2 />
-          <FrontClearTestParams>
-            <ShouldPerformFrontClearTest value="false" />
-            <ForwardOffset value="0.000000" />
-            <VerticalOffset value="0.000000" />
-            <HorizontalOffset value="0.000000" />
-            <CapsuleRadius value="0.000000" />
-            <CapsuleLength value="0.000000" />
-          </FrontClearTestParams>
         </Item>
       </Infos>
     </Item>
