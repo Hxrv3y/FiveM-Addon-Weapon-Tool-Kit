@@ -1,6 +1,8 @@
 # vWeaponsToolkit
 
-A tool that allows the creation of add-on weapons & add-on components with ease in GTA V/FiveM.
+A tool that allows the creation of add-on weapons & add-on components with ease in GTA V/FiveM
+
+- For support join my discord at https://discord.gg/rfxUVwa8AF
 
 ## Features
 - Add-on weapon creation using templates from base-game weapons. (Over 20+ templates, more may be added if requested)
@@ -24,8 +26,6 @@ A tool that allows the creation of add-on weapons & add-on components with ease 
 
 
 ## Planned #TODO
-- More Templates Join My Discord To Suggest https://discord.gg/rfxUVwa8AF
-
 - Add your own custom audio sound to the weapon
 
 - Fix MK2 Weapons and Components
