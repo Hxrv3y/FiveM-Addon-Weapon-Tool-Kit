@@ -15,10 +15,10 @@
     <Infos>
         <Item>
             <Infos>
-                <Item type="CWeaponInfo">
-			<Name>WEAPON_BULLPUPRIFLE</Name>
+        <Item type="CWeaponInfo">
+          <Name>WEAPON_BULLPUPRIFLE</Name>
           <Model>w_ar_bullpuprifle</Model>
-          <Audio>AUDIO_ITEM_BULLPUP_RIFLE_MK2</Audio>
+          <Audio>AUDIO_ITEM_BULLPUPRIFLE</Audio>
           <Slot>SLOT_BULLPUPRIFLE</Slot>
           <DamageType>BULLET</DamageType>
           <Explosion>

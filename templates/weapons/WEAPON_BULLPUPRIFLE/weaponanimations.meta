@@ -4,6 +4,7 @@
     <Item key="Ballistic">
       <Fallback>Default</Fallback>
       <WeaponAnimations>
+<WeaponAnimations>
         <Item key="WEAPON_BULLPUPRIFLE">
           <CoverMovementClipSetHash />
           <CoverMovementExtraClipSetHash />
@@ -53,7 +54,7 @@
     </Item>
     <Item key="Default">
       <WeaponAnimations>
-        <Item key="WEAPON_BULLPUPRIFLE">
+<Item key="WEAPON_BULLPUPRIFLE">
           <CoverMovementClipSetHash>cover@move@base@2h</CoverMovementClipSetHash>
           <CoverMovementExtraClipSetHash>cover@move@extra@2h</CoverMovementExtraClipSetHash>
           <CoverAlternateMovementClipSetHash>cover@move@ai@base@2h</CoverAlternateMovementClipSetHash>
@@ -101,7 +102,7 @@
     </Item>
     <Item key="MP_F_Freemode">
       <Fallback>Gang</Fallback>
-      <WeaponAnimations>
+            <WeaponAnimations>
         <Item key="WEAPON_BULLPUPRIFLE">
           <CoverMovementClipSetHash />
           <CoverMovementExtraClipSetHash />
@@ -151,7 +152,7 @@
     <Item key="FirstPerson">
       <Fallback>Default</Fallback>
       <WeaponAnimations>
-        <Item key="WEAPON_BULLPUPRIFLE">
+<Item key="WEAPON_BULLPUPRIFLE">
           <CoverMovementClipSetHash>cover@first_person@move@base@2h</CoverMovementClipSetHash>
           <CoverMovementExtraClipSetHash>cover@first_person@move@extra@2h</CoverMovementExtraClipSetHash>
           <CoverAlternateMovementClipSetHash>cover@move@ai@base@2h</CoverAlternateMovementClipSetHash>
@@ -212,7 +213,7 @@
     <Item key="FirstPersonAiming">
       <Fallback>Default</Fallback>
       <WeaponAnimations>
-        <Item key="WEAPON_BULLPUPRIFLE">
+<Item key="WEAPON_BULLPUPRIFLE">
           <CoverMovementClipSetHash>cover@first_person@move@base@2h</CoverMovementClipSetHash>
           <CoverMovementExtraClipSetHash>cover@first_person@move@extra@2h</CoverMovementExtraClipSetHash>
           <CoverAlternateMovementClipSetHash>cover@move@ai@base@2h</CoverAlternateMovementClipSetHash>
@@ -273,7 +274,7 @@
     <Item key="FirstPersonRNG">
       <Fallback>Default</Fallback>
       <WeaponAnimations>
-        <Item key="WEAPON_BULLPUPRIFLE">
+<Item key="WEAPON_BULLPUPRIFLE">
           <CoverMovementClipSetHash>cover@first_person@move@base@2h</CoverMovementClipSetHash>
           <CoverMovementExtraClipSetHash>cover@first_person@move@extra@2h</CoverMovementExtraClipSetHash>
           <CoverAlternateMovementClipSetHash>cover@move@ai@base@2h</CoverAlternateMovementClipSetHash>
@@ -334,7 +335,7 @@
     <Item key="FirstPersonScope">
       <Fallback>Default</Fallback>
       <WeaponAnimations>
-        <Item key="WEAPON_BULLPUPRIFLE">
+<Item key="WEAPON_BULLPUPRIFLE">
           <CoverMovementClipSetHash>cover@first_person@move@base@2h</CoverMovementClipSetHash>
           <CoverMovementExtraClipSetHash>cover@first_person@move@extra@2h</CoverMovementExtraClipSetHash>
           <CoverAlternateMovementClipSetHash>cover@move@ai@base@2h</CoverAlternateMovementClipSetHash>
@@ -390,7 +391,7 @@
     <Item key="Fat">
       <Fallback>Default</Fallback>
       <WeaponAnimations>
-        <Item key="WEAPON_BULLPUPRIFLE">
+<Item key="WEAPON_BULLPUPRIFLE">
           <CoverMovementClipSetHash />
           <CoverMovementExtraClipSetHash />
           <CoverAlternateMovementClipSetHash />
@@ -440,7 +441,7 @@
     <Item key="SuperFat">
       <Fallback>Default</Fallback>
       <WeaponAnimations>
-        <Item key="WEAPON_BULLPUPRIFLE">
+         <Item key="WEAPON_BULLPUPRIFLE">
           <CoverMovementClipSetHash />
           <CoverMovementExtraClipSetHash />
           <CoverAlternateMovementClipSetHash />
@@ -490,7 +491,7 @@
     <Item key="Female">
       <Fallback>Default</Fallback>
       <WeaponAnimations>
-        <Item key="WEAPON_BULLPUPRIFLE">
+<Item key="WEAPON_BULLPUPRIFLE">
           <CoverMovementClipSetHash />
           <CoverMovementExtraClipSetHash />
           <CoverAlternateMovementClipSetHash />
